@@ -1,0 +1,10 @@
+# Datasets and Weights (DO NOT UPLOAD TO GITHUB)
+data/raw/
+data/processed/
+models/saved_weights/*.pt
+
+# Python and Jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
